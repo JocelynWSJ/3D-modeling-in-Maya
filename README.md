@@ -8,4 +8,4 @@ I chose three common objects to model: Airpods, scissor, ring, pen and my favori
 
 
 
-![5 Objects](5 Objects.png)
+![5 Objects](5Objects.png)
