@@ -5,3 +5,7 @@
 
 
 I chose three common objects to model: Airpods, scissor, ring, pen and my favorite lipstick.
+
+
+
+![5 Objects](5 Objects.png)
